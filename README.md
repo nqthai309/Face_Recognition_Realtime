@@ -1,7 +1,7 @@
 # Face_Recognition_Realtime
 
 # step 1
-1. repalce your database directory in file hyper.py
+1. replace your database directory in file hyper.py
 2. replace your IP address in file GUI.py
 
 # step 2
